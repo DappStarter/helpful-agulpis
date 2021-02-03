@@ -1,0 +1,17 @@
+{
+    "name": "EXE_cutable",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/decimals": "0.007010101",
+        "/category/asset_value_tracking/token/supply": "3600000",
+        "/category/asset_value_tracking/token/name": "EXE",
+        "/category/asset_value_tracking/token/symbol": "EXE",
+        "/category/collection/entity": true
+    }
+}
